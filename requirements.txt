@@ -4,3 +4,4 @@ dash-bootstrap-templates
 plotly
 pandas
 gunicorn
+gunicorn
